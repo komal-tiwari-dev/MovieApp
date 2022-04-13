@@ -2,15 +2,15 @@ var slide_div = document.querySelector("#slideshow")
 
 // Slider
 let images = [{
-    "image": "https://themepack.me/i/c/749x467/media/g/2024/doctor-strange-theme-gx15.jpg"
+    "image": "https://info.umkc.edu/unews/wp-content/uploads/2016/12/MCU.jpg"
 }, {
-    "image": "https://themepack.me/i/c/749x467/media/g/583/black-panther-marvel-theme-15.jpg"
+    "image": "https://wallpaperaccess.com/full/54053.jpg"
 }, {
-    "image": "https://themepack.me/i/c/749x467/media/g/542/spider-man-theme-8.jpg"
+    "image": "https://wallpaperaccess.com/full/733942.jpg"
 }, {
-    "image": "https://themepack.me/i/c/749x467/media/g/1739/iron-man-3-theme-uf12.jpg"
+    "image": "https://images8.alphacoders.com/378/thumb-1920-378546.jpg"
 }, {
-    "image": "https://themepack.me/i/c/749x467/media/g/242/thor-theme-6.jpg"
+    "image": "https://wallpaperaccess.com/full/645141.jpg"
 }
 ]
 
@@ -29,13 +29,13 @@ setInterval(function () {
 
 var moviesList = [
     {
-        image: "https://themepack.me/i/c/749x467/media/g/542/spider-man-theme-8.jpg",
+        image: "https://wallpaperaccess.com/full/733942.jpg",
         name1: "Spider-Man",
         date: "22-jan-2022",
         rating: 9
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/2024/doctor-strange-theme-gx15.jpg",
+        image: "https://info.umkc.edu/unews/wp-content/uploads/2016/12/MCU.jpg",
         name1: "Dr.Stranger",
         date: "28-april-2022",
         rating: 8
@@ -44,7 +44,7 @@ var moviesList = [
         image: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/Raa.jpg?rMbfdeVefSSw._q6j6UHPZaYS4ThtXvR&size=1200:675",
         name1: "Jai Bhim",
         date: "2 November 2021",
-        rating: 9.4
+        rating: 6.4
     },
     {
         image: "https://media-cache.cinematerial.com/p/500x/lal8wmxq/the-dark-knight-movie-poster.jpg?v=1456722176",
@@ -77,43 +77,43 @@ var moviesList = [
         rating: 7.4
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/583/black-panther-marvel-theme-15.jpg",
+        image: "https://wallpaperaccess.com/full/54053.jpg",
         name1: "Black-Panther",
         date: "02-March-2022",
         rating: 9.1
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/1739/iron-man-3-theme-uf12.jpg",
+        image: "https://images8.alphacoders.com/378/thumb-1920-378546.jpg",
         name1: "Iron Man 3",
         date: "12-feb-2022",
         rating: 9.2
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/242/thor-theme-6.jpg",
+        image: "https://wallpaperaccess.com/full/645141.jpg",
         name1: "Thor",
         date: "08-dec-2020",
         rating: 9.8
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/227/superman-comics-theme-1.jpg",
+        image: "https://c4.wallpaperflare.com/wallpaper/926/592/962/superman-poster-movie-henry-cavill-wallpaper-preview.jpg",
         name1: "Superman",
         date: "14-sept-2022",
         rating: 8.4
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/1256/batman-v-superman-theme-uk7.jpg",
+        image: "https://images.thedirect.com/media/article_full/batman-robert-pattinson-zoe-kravitz-matt-reeves-dc-dceu.jpg",
         name1: "Batman",
         date: "31-jan-2021",
         rating: 7.9
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/545/hulk-theme-9.jpg",
+        image: "https://wallpaperaccess.com/full/529912.jpg",
         name1: "Hulk",
         date: "25-july-2021",
         rating: 8.7
     },
     {
-        image: "https://themepack.me/i/c/749x467/media/g/1261/deadpool-movie-theme-sz19.jpg",
+        image: "https://wallpapers-base.com/wp-content/uploads/2018/08/high_quality_wallpaper_HD_1080_IDS_1040887.jpg",
         name1: "DeadPool",
         date: "07-jan-2022",
         rating: 8
